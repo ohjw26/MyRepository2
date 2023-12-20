@@ -6,5 +6,6 @@ public class A {
 		System.out.println("This is the 2nd version");
 		B your = new B();
 		your.sayHello("Everyone");
+		System.out.println("hmm");
 	}
 }
